@@ -120,14 +120,21 @@ db.on(...)
 
 As Siddhant Sinha [demoed](https://www.youtube.com/watch?v=Jq2ZR-3NYVg&feature=youtu.be&t=302) on Prisma Day, you can use Prisma Studio as a playground for your Prisma Client&mdash;basically the equivalent of GraphiQL for GraphQL.
 
-## Using seed.js to test CRUD operations
+![studio](https://user-images.githubusercontent.com/32992335/86546465-e3662100-bee9-11ea-8740-6099ff239598.png)
 
-<!-- TODO -->
-<!-- Remove if you can C and D in prisma studio? At least diminish. -->
+![studio-button-hover](https://user-images.githubusercontent.com/32992335/86546472-e8c36b80-bee9-11ea-9389-a928a33252d5.png)
+
+![studio-button-click](https://user-images.githubusercontent.com/32992335/86546477-f1b43d00-bee9-11ea-8aea-ef96f9753f2d.png)
+
+![studio-code](https://user-images.githubusercontent.com/32992335/86546483-f973e180-bee9-11ea-8247-f119e1957198.png)
+
+<!-- ARCHIVE -->
+
+<!-- ## Using seed.js to test CRUD operations
 
 [todo]
 
-While `seed.js` is for seeding your database, you can use it to quickly try stuff out.
+While `seed.js` is for seeding your database, if you don't want to work in Prisma Studio for any reason, you can use `seed.js` to quickly try stuff out. -->
 
 <!-- ## Example: User and Post
 
