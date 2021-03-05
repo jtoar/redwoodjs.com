@@ -2,7 +2,7 @@
 
 [todo]
 
-# Configuring Storybook
+## Configuring Storybook
 
 You can configure storybook by adding a `storybook.main.js` file to your `web/config` directory (note that this directory may or may not exist&mdash;i.e. you might have to create it):
 
@@ -18,7 +18,7 @@ This file should return an object; this object will be merged with Redwood's bas
 
 Note that there's two files for configuring storybook: the `storybook.main.js` file and the `storybook.preview.js` file. They're for different things. If you want to add a decorator, do it in the `.preview.js` file. If you want to add a plugin, do it in `.main.js`.
 
-# Other sections
+## Other sections
 
 [todo]
 
